@@ -1,4 +1,3 @@
-api/generate-exam.js
 // Função serverless do Vercel — roda no servidor, nunca no navegador.
 // A chave da OpenRouter fica só aqui, lida de uma variável de ambiente,
 // então nenhum professor precisa (nem consegue) ver ou configurar a chave.
